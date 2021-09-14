@@ -16,18 +16,18 @@
 
 ## Table of Contents
 
-- [Technology Stack 🛠️](#technology-stack-)
-- [Structure ⚓](#structure-)
-- [Sharing 💗](#sharing-)
-- [Prerequisites 🍪](#prerequisites-)
-- [Setup And Deployment 🔧](#setup-and-deployment-)
-- [Contributing 🙌](#contributing-)
+- [Technology Stack](#technology-stack-)
+- [Structure](#structure-)
+- [Sharing](#sharing-)
+- [Prerequisites](#prerequisites-)
+- [Setup And Deployment](#setup-and-deployment-)
+- [Contributing](#contributing-)
 - [Issues](#issues)
-- [Upcoming Features / Improvements 🔗](#upcoming-features-/-improvements-)
-- [Showcase 🚀](#showcase-)
+- [Upcoming Features / Improvements](#upcoming-features-/-improvements-)
+- [Showcase](#showcase-)
 - [Versão em Português :brazil:](#versao-em-portugues-)
 
-## Technology Stack 🛠️
+## Technology Stack 
 
 Dependencies defined in package.json:
 
@@ -37,7 +37,7 @@ Dependencies defined in package.json:
 | [GitHub API](https://developer.github.com/v3/repos/)
 | [Instagram API](https://www.instagram.com/developer/embedding/)
 
-## Structure ⚓
+## Structure 
 
 - Navigation bar (optional)
 - Body
@@ -61,11 +61,11 @@ Dependencies defined in package.json:
   - Copyrights
   - Acknowledgements(
 
-## Prerequisites 🍪
+## Prerequisites 
 
 You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/) installed on your PC. You should also own a GitHub account.
 
-## Setup And Deployment 🔧
+## Setup And Deployment 
 
 1. To Get Started, clone the repo:
 
