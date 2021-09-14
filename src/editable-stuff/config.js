@@ -9,6 +9,7 @@ const mainBody = {
   firstName: "Jose",
   middleName: "Rogelio",
   lastName: "Ibarra",
+  role: " Full-Stack Engineer | Project Manager | DBA | UI/UX Designer",
   message: " BUILDING BOLD AND INNOVATIVE SOLUTIONS ",
   icons: [
     {
@@ -76,7 +77,7 @@ const leadership = {
   show: false,
   heading: "Leadership",
   message:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
+    "As a Project Manager, I have served up to 9 clients at a given time and was responsible for end-to-end product delivery for the projects I managed. I believe project objectives should be carefully refined and simplified so that they are explicit and clear and focused on achieving the broader strategic vision of which that project is a part. I take full advantage of all my available resources and use my expertise to provide the most accurate and up-to-date information. I work to develop bold and innovative solutions all while taking ownership of each task and project I am in charge of. I lead with efficiency and communicate complex procedures in a clear and concise manner. I am diligent and strategic in my planning and I focus on continuous delivery.",
   images: [
     { 
       img: require("../editable-stuff/ProfilePic250px.jpeg"), 
@@ -134,14 +135,16 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
+      role: 'Project Manager',// Here Add Company Name
       companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      date: 'Feb 2014 – Present',
+      skills:'',
     },
     {
-      role: 'Front-End Developer',
+      role: 'Database Administrator',
       companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      date: 'Feb 2014 – Present',
+      skills:'',
     },
   ]
 }
