@@ -12,8 +12,6 @@
   </p>
 </p>
 
-[![Site preview](/public/social-image.png)](https://MatrixSpock.github.io/home)
-
 ## Table of Contents
 
 - [Technology Stack](#technology-stack-)
