@@ -59,7 +59,7 @@ Dependencies defined in package.json:
 - Footer
   - Footer Note 
   - Copyrights
-  - Acknowledgements(
+  - Acknowledgements
 
 ## Prerequisites 
 
