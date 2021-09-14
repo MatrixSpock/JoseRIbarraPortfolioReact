@@ -12,7 +12,7 @@
   </p>
 </p>
 
-[![Site preview](/public/social-image.png)](https://MatrixSpock.github.io/home)
+[![Site preview](/public/social-image.jpg)](https://MatrixSpock.github.io/home)
 
 ## Table of Contents
 
@@ -95,9 +95,9 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 5. To change the thumbnail image:
 
     - Navigate to the "public" folder.  
-    - There you will see "social-image.png".  
+    - There you will see "social-image.jpg".  
     - Delete it.   
-    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
+    - Take a screenshot of your version and rename it "social-image.jpg" and place it there.  
     
    To make changes, repeat from step 4.
 
