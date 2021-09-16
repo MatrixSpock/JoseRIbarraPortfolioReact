@@ -16,14 +16,14 @@ const mainBody = {
       image: "fa-github",
       url: "https://github.com/MatrixSpock",
     },
-    {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/MtrXSpoCK",
-    },
-    {
-      image: "fa-instagram",
-      url: "https://www.instagram.com/_joeibarra/",
-    },
+    // {
+    //   image: "fa-facebook",
+    //   url: "https://www.facebook.com/MtrXSpoCK",
+    // },
+    // {
+    //   image: "fa-instagram",
+    //   url: "https://www.instagram.com/_joeibarra/",
+    // },
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/jose-r-ibarra/",
@@ -104,7 +104,7 @@ const skills = {
     { name: "Python", value: 75 },
     { name: "SQL", value: 90 },
     { name: "AngularJS", value: 85 },
-    { name: "Angular2-11", value: 90 },
+    { name: "Angular 2-11", value: 90 },
     { name: "JavaScript", value: 90 },
     { name: "React", value: 65 },
     { name: "HTML/CSS", value: 90 },
@@ -113,11 +113,11 @@ const skills = {
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Positivity", value: 90 },
     { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Problem Solving", value: 90 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
+    { name: "Organization", value: 90 },
     { name: "Creativity", value: 90 },
   ],
 };
