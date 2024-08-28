@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Jose",
   middleName: "Rogelio",
   lastName: "Ibarra",
-  role: " Full-Stack Engineer | Project Manager | DBA | UI/UX Designer",
+  role: "Technical Project Manager | Full-Stack Software Engineer | Agile Expert | UI/UX Designer",
   message: " BUILDING BOLD AND INNOVATIVE SOLUTIONS ",
   icons: [
     {
